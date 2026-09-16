@@ -35,4 +35,4 @@ A personal portfolio website showcasing my projects and learning journey.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn]https://www.linkedin.com/in/kashish-singh-915681380?utm_source=share_via&utm_content=profile&utm_medium=member_android
