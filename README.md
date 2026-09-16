@@ -22,11 +22,9 @@ A personal portfolio website showcasing my projects and learning journey.
 
 ## 🏆 Certifications
 
-[Python Certificate](https://github.com/codebykashish2304/codebykashish2304/blob/main/Achievements%20-%20kashishsingh-3729%20_%20Microsoft%20Learn%20(12).pdf)
-- Microsoft – Craft Effective Prompts
-- AI/ML Fundamentals
+-Python Certificate
 - Deloitte Technology Job Simulation
-- Power BI & Excel
+  
 
 ## 📚 Currently Learning
 
