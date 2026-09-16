@@ -13,12 +13,14 @@
 - Git & GitHub
 
 ## 🚀 Project 
+##🍔🍕 Restraunt website
 https://brew-bite-ten.vercel.app/
 ### 🎯 KBC Python Quiz Game
 A Python-based quiz game inspired by Kaun Banega Crorepati.
 
 ### 🌐 Portfolio Website
-A personal portfolio website showcasing my projects and learning journey.
+A personal portfolio website showcasing my projects and learning journey. 
+https://kashish-portfolio-kappa.vercel.app/
 
 ## 🏆 Achievements & Certifications
 
@@ -35,4 +37,5 @@ A personal portfolio website showcasing my projects and learning journey.
 
 ## 🤝 Connect With Me
 
-[LinkedIn]https://www.linkedin.com/in/kashish-singh-915681380?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[LinkedIn] 
+https://www.linkedin.com/in/kashish-singh-915681380?utm_source=share_via&utm_content=profile&utm_medium=member_android
