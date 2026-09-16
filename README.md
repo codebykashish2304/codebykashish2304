@@ -13,7 +13,7 @@
 - Git & GitHub
 
 ## 🚀 Project 
-##🍔🍕 Restraunt website
+🍔🍕 Restraunt website
 https://brew-bite-ten.vercel.app/
 ### 🎯 KBC Python Quiz Game
 A Python-based quiz game inspired by Kaun Banega Crorepati.
