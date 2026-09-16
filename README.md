@@ -20,10 +20,11 @@ A Python-based quiz game inspired by Kaun Banega Crorepati.
 ### 🌐 Portfolio Website
 A personal portfolio website showcasing my projects and learning journey.
 
-## 🏆 Certifications
+## 🏆 Achievements & Certifications
 
--Python Certificate
-- Deloitte Technology Job Simulation
+- [Python Programming Certificate](https://github.com/codebykashish2304/codebykashish2304/blob/main/python.pdf)
+- [Python Advanced Certificate](https://github.com/codebykashish2304/codebykashish2304/blob/main/Python2.pdf)
+- [Deloitte Technology Job Simulation - Forage](https://github.com/codebykashish2304/codebykashish2304/blob/main/Deloitte.pdf)
   
 
 ## 📚 Currently Learning
