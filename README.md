@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Kashish Singh Banner"/>
+  <img src="./banner.svg" width="100%" alt="Kashish Singh Banner">
 </p>
 
-🎓 B.Tech CSE Student  
-💻 Python | AI/ML | Web Development  
-🚀 Learning, building and improving every day
+<h1 align="center">Hi, I'm Kashish Singh 👋</h1>
+
+<p align="center">
+  🎓 B.Tech CSE Student &nbsp; • &nbsp;
+  💻 Python | AI/ML | Web Development
+</p>
+
+<p align="center">
+  🚀 Learning, building and improving every day
+</p>
 
 ## 🛠️ Skills
 
