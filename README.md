@@ -1,4 +1,6 @@
-# Hi, I'm Kashish Singh 👋
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Kashish Singh Banner"/>
+</p>
 
 🎓 B.Tech CSE Student  
 💻 Python | AI/ML | Web Development  
