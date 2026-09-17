@@ -1,1 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="45%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>  <rect width="1200" height="300" rx="25" fill="url(#bg)"/>  <circle cx="1050" cy="60" r="130" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1100" cy="230" r="170" fill="#38bdf8" opacity="0.06"/>
+  <circle cx="120" cy="250" r="140" fill="#a78bfa" opacity="0.07"/><text x="600" y="125"
+text-anchor="middle"
+font-family="Arial, sans-serif"
+font-size="52"
+font-weight="bold"
+fill="white">
+Hi, I'm Kashish Singh 👋
+</text>
 
+<text x="600" y="175"
+text-anchor="middle"
+font-family="Arial, sans-serif"
+font-size="23"
+fill="#e0e7ff">
+B.Tech CSE • Python • AI/ML • Web Development
+</text>
+
+  <rect x="390" y="205" width="420" height="4" rx="2" fill="url(#glow)"/><text x="600" y="245"
+text-anchor="middle"
+font-family="Arial, sans-serif"
+font-size="18"
+fill="#cbd5e1">
+Learning • Building • Improving 🚀
+</text>
+</svg>
