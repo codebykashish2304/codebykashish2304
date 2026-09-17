@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Kashish Singh Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2563eb,100:06b6d4&height=220&section=header&text=Kashish%20Singh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Kashish Singh 👋</h1>
