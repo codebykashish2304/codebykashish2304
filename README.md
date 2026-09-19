@@ -180,8 +180,6 @@ Exploring Artificial Intelligence & Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/🧩%20Data%20Structures%20%26%20Algorithms-4c1d95?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/🤖%20Artificial%20Intelligence-2563eb?style=for-the-badge">
